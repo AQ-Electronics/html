@@ -102,8 +102,13 @@ width:100%;
     flex: 100%;
 	margin: auto;
   text-align: center;
+	}
 }
-}
+
+@media (max-width 1200px) {
+	.footer, .header {
+		max-width: 100%;
+	}
 
 
 .featured {
