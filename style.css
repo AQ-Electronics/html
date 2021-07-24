@@ -106,7 +106,7 @@ width:100%;
 }
 
 @media (max-width 1200px) {
-	.footer, .header {
+	.footer, .cat {
 		max-width: 100%;
 	}
 }
